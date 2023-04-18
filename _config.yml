@@ -60,8 +60,8 @@ conference:
   - type: Organizers
     people:
     - {given: Mauricio, family: Alvarez, url: "https://maalvarezl.github.io/", institute: University of Manchester}
-    - {given: Carl H., family: Ek, url: "https://wilocw.github.io/", institute: University of Cambridge}
-    - {given: Javier, family: Gonzalez, url: "https://javiergonzalezh.github.io/", institute: Microsoft Research Cambridge}    
+    - {given: Carl H., family: Ek, url: "http://carlhenrik.com/", institute: University of Cambridge}
+    - {given: Javier, family: Gonzalez, url: "https://javiergonzalezh.github.io/", institute: Microsoft Research Cambridge}
     - {given: Michael T., family: Smith, url: "https://www.michaeltsmith.org.uk/", institute: University of Sheffield}
     - {given: Richard, family: Wilkinson, url: "https://r-wilkinson.staff.shef.ac.uk/", institute: University of Nottingham}
     - {given: Neil D., family: Lawrence, url: "https://inverseprobability.com", institute: University of Cambridge}
