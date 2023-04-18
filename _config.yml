@@ -63,7 +63,7 @@ conference:
     - {given: Carl H., family: Ek, url: "http://carlhenrik.com/", institute: University of Cambridge}
     - {given: Javier, family: Gonzalez, url: "https://javiergonzalezh.github.io/", institute: Microsoft Research Cambridge}
     - {given: Michael T., family: Smith, url: "https://www.michaeltsmith.org.uk/", institute: University of Sheffield}
-    - {given: Richard, family: Wilkinson, url: "https://r-wilkinson.staff.shef.ac.uk/", institute: University of Nottingham}
+    - {given: Richard, family: Wilkinson, url: "https://rich-d-wilkinson.github.io/", institute: University of Nottingham}
     - {given: Neil D., family: Lawrence, url: "https://inverseprobability.com", institute: University of Cambridge}
 
 
