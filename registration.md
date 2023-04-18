@@ -3,12 +3,9 @@ layout: page
 title: Registration
 weight: 3
 ---
-
+<!---
 # Registration for the Gaussian Processes and Uncertainty Quantification Summer School, 2023.
 
-**Registrations for the Summer School will open soon.**
-
-<!---
 ## Fees
 
 Attendee                          |  Early Bird (<31/07)  |  Regular Rate    |
@@ -27,6 +24,7 @@ Contact the [organisers](mailto:m.t.smith@sheffield.ac.uk) if you want to be put
 
 Please register [here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/gaussian-process-summer-school-2022)! 
 -->
+**Registrations for the Summer School will open soon.**
 
 Registrants to the summer school can attend the workshop on September 14 free.
 
