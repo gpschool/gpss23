@@ -21,7 +21,7 @@ youtube:
   width: 560
 
 ghub:
-  edit: true
+  edit: false
   repository: gpss23
 
 markdown: kramdown
