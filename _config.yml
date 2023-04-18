@@ -20,10 +20,6 @@ youtube:
   height: 315
   width: 560
 
-ghub:
-  edit: false
-  repository: gpss23
-
 markdown: kramdown
 
 # Build settings
