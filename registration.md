@@ -26,7 +26,7 @@ Contact the [organisers](mailto:m.t.smith@sheffield.ac.uk) if you want to be put
 
 -->
 
-Registrants to the summer school can attend the workshop on September 14 free.
+Registrants to the summer school can attend the workshop on September 14 for free.
 
-If you have registered and need a visa to come to UK, please apply for a Standard visa. More details regarding the visa application can be found
+If you have registered and need a visa to come to the UK, please apply for a Standard visa. More details regarding the visa application can be found
 [here](https://www.gov.uk/standard-visitor-visa). If you need an invitation letter for your visa application, please [contact us](mailto:mauricio.alvarezlopez@manchester.ac.uk).
