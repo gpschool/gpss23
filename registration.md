@@ -3,28 +3,30 @@ layout: page
 title: Registration
 weight: 3
 ---
-<!---
+
 # Registration for the Gaussian Processes and Uncertainty Quantification Summer School, 2023.
 
 ## Fees
 
-Attendee                          |  Early Bird (<31/07)  |  Regular Rate    |
-----------------------------------|-----------------------|------------------|
-Academic                          |      £280             |  £450            |
-Industrial and Other Non-Academic |      £780             |  £780            |
-
+Attendee                          |  Fee  | 
+----------------------------------|-----------------------|
+Academic (School and workshop)                         |      £300             |  
+Academic (Workshop only)                         |      £80             |  
+Industrial and Other Non-Academic (School and workshop) |      £800             |
+Industrial and Other Non-Academic (Workshop only) |      £250             |
 <br />
 
-## Registration
+## Registration (open until July 31, 2023) 
 
+**[Please register here](https://estore.manchester.ac.uk/conferences-and-events/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence/gaussian-process-and-uncertainty-quantification-summer-school)** 
+
+<!---
 **Registrations are now closed.**
 
 Contact the [organisers](mailto:m.t.smith@sheffield.ac.uk) if you want to be put on the waiting list.
 
 
-Please register [here](https://onlineshop.shef.ac.uk/conferences-and-events/faculty-of-engineering/faculty-of-engineering/gaussian-process-summer-school-2022)! 
 -->
-**Registrations for the Summer School will open soon.**
 
 Registrants to the summer school can attend the workshop on September 14 free.
 
