@@ -4,16 +4,14 @@ title: Registration
 weight: 3
 ---
 
-# Registration for the Gaussian Processes and Uncertainty Quantification Summer School, 2023.
-
 ## Fees
 
-Attendee                          |  Fee  | 
-----------------------------------|-----------------------|
-Academic (School and workshop)                         |      £300             |  
-Academic (Workshop only)                         |      £80             |  
-Industrial and Other Non-Academic (School and workshop) |      £800             |
-Industrial and Other Non-Academic (Workshop only) |      £250             |
+|Attendee                                                |     Fee     | 
+|--------------------------------------------------------|-------------|
+|Academic (School and workshop)                          |      £300   |  
+|Academic (Workshop only)                                |       £80   |  
+|Industrial and Other Non-Academic (School and workshop) |      £800   |
+|Industrial and Other Non-Academic (Workshop only)       |      £250   |
 <br />
 
 ## Registration (open until July 31) 
