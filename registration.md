@@ -6,13 +6,13 @@ weight: 3
 
 ## Fees
 
-|Attendee                                                |     Fee     | 
-|--------------------------------------------------------|-------------|
+|               Attendee                                 |     Fee     | 
+|:--------------------------------------------------------|-------------:|
 |Academic (School and workshop)                          |      £300   |  
 |Academic (Workshop only)                                |       £80   |  
 |Industrial and Other Non-Academic (School and workshop) |      £800   |
 |Industrial and Other Non-Academic (Workshop only)       |      £250   |
-<br />
+
 
 ## Registration (open until July 31) 
 
