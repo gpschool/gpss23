@@ -14,7 +14,7 @@ weight: 3
 |Industrial and Other Non-Academic (Workshop only)       |      £250   |
 
 
-## Registration (open until July 31) 
+## Registration (open until August 11) 
 
 **[Register here](https://estore.manchester.ac.uk/conferences-and-events/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence/gaussian-process-and-uncertainty-quantification-summer-school)**
 
