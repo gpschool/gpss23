@@ -3,7 +3,7 @@ layout: page
 title: Registration
 weight: 3
 ---
-
+<!---
 ## Fees
 
 |               Attendee                                 |     Fee     | 
@@ -17,14 +17,11 @@ weight: 3
 ## Registration (open until August 11) 
 
 **[Register here](https://estore.manchester.ac.uk/conferences-and-events/faculty-of-science-engineering/department-of-computer-science/centre-of-excellence/gaussian-process-and-uncertainty-quantification-summer-school)**
+-->
 
-<!---
 **Registrations are now closed.**
 
-Contact the [organisers](mailto:m.t.smith@sheffield.ac.uk) if you want to be put on the waiting list.
-
-
--->
+Contact the [organisers](mailto:mauricio.alvarezlopez@manchester.ac.uk) if you want to be put on the waiting list.
 
 Registrants to the summer school can attend the workshop on September 14 for free.
 
