@@ -63,10 +63,6 @@ conference:
     - {given: Neil D., family: Lawrence, url: "https://inverseprobability.com", institute: University of Cambridge}
 
 
-previous_meeting:
-  name: GPSS 2022
-  url: "https://gpss.cc/gpss22"
-
 map:
   show: false
   mapbox:
