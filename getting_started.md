@@ -13,7 +13,7 @@ We'll hold the labs in the same room as the talks and lunch.
 
 Prior Python programming skills are not required, however you should ensure that you have followed the appropriate intrustrctions for running the labs in Google Colab or Locally below.
 
-## Running Labs in Binder
+## Running Labs in Google Colab
 
 This year, we are hosting the labs on Google Colab, a cloud-based environment that you can use to run labs in. You can run the labs in Colab from your browser, without the need to setup a python environment locally on your machine.
 
