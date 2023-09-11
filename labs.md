@@ -16,6 +16,8 @@ This lab is designed to introduce Gaussian processes in a practical way, illustr
 
 [![Download](https://img.shields.io/badge/download-lab%201-green)](https://github.com/gpschool/labs/raw/2023/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/labs/blob/2023/colab/lab_1.ipynb) &nbsp;&nbsp;&nbsp;
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2023/answers/lab_1.ipynb)
+
 
 #### Lab 1 Extra: Uncertainty Propagation
 
@@ -23,6 +25,7 @@ This lab is an extension on the work introduced in Lab 1 of the summer school. I
 
 [![Download](https://img.shields.io/badge/download-lab%201%20extra-green)](https://github.com/gpschool/labs/raw/2023/lab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/labs/blob/2023/colab/lab_1_extra.ipynb)&nbsp;&nbsp;&nbsp;
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2023/answers/lab_1_extra.ipynb)
 
 ### Lab 2: GPs for Non-Gaussian Likelihoods and Big Data
 
