@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Registration
-weight: 3
+weight: 5
 ---
 <!---
 ## Fees

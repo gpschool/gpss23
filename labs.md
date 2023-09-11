@@ -1,6 +1,6 @@
 ---
 layout: page
-weight: 5
+weight: 4
 title: Labs
 ---
 
