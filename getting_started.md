@@ -42,7 +42,7 @@ The easiest way to get a working Python environment is to install Anaconda. It i
 1. Download and install the free version of Anaconda from its webpage: [https://www.anaconda.com/download](https://www.anaconda.com/download)
 2. Update Anaconda: open a command prompt or terminal and execute the following command: `conda update --name base conda`
 3. Create an environment for this workshop: `conda create -n gpss python=3.10`, and activate it `conda activate gpss`
-4. Install common python packages: `pip install numpy scipy matplotlib jupyter requests`
+4. Install common python packages: `pip install "numpy>=1.20,<1.25" scipy matplotlib jupyter requests`
 5. Install GP specific python packages used for this workshop: `pip install git+https://github.com/connorfuhrman/paramz@connorfuhrman/np_type_alias_dep git+https://github.com/m-lyon/GPy git+https://github.com/SheffieldML/pyDeepGP git+https://github.com/m-lyon/climin emukit`
   - **N.B.** It is crucial to install the versions listed here to ensure dependency compatibility.
   - See below for a description of these packages.
