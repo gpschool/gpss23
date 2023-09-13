@@ -35,6 +35,7 @@ As with Lab 1, the notebook uses GPy for handling the regression model and likel
 
 [![Download](https://img.shields.io/badge/download-lab%202-green)](https://github.com/gpschool/labs/raw/2023/lab_2.ipynb)&nbsp;&nbsp;&nbsp;
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/labs/blob/2023/colab/lab_2.ipynb)&nbsp;&nbsp;&nbsp;
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2023/answers/lab_2.ipynb)
 
 ### Lab 3: Global Optimisation with Gaussian Processes
 
@@ -42,6 +43,7 @@ This lab introduces the basic concepts of Bayesian optimisation with Emukit. The
 
 [![Download](https://img.shields.io/badge/download-lab%203-green)](https://github.com/gpschool/labs/raw/2023/lab_3.ipynb)&nbsp;&nbsp;&nbsp;
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/labs/blob/2023/colab/lab_3.ipynb)&nbsp;&nbsp;&nbsp;
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2023/answers/lab_3.ipynb)
 
 
 #### Lab 3 Extra: Deep Gaussian Processes
@@ -50,4 +52,5 @@ This lab introduces regression with hierarchical "deep" Gaussian processes.
 
 [![Download](https://img.shields.io/badge/download-lab%202%20extra-green)](https://github.com/gpschool/labs/raw/2023/lab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gpschool/labs/blob/2023/colab/lab_3_extra.ipynb)&nbsp;&nbsp;&nbsp;
+[![Answers](https://img.shields.io/badge/answers-nbviewer-green)](https://nbviewer.jupyter.org/github/gpschool/labs/blob/2023/answers/lab_3_extra.ipynb)
 
